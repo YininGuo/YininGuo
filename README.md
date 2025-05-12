@@ -5,7 +5,8 @@
   🔬 My academic interests span engineering, architecture and their intersections with society and culture    
   🛠️ I mainly work with  [![Python](https://img.shields.io/badge/.py-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/.tex-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
-  [![MATLAB](https://img.shields.io/badge/.m-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)  
+  [![MATLAB](https://img.shields.io/badge/.m-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+  [![R](https://img.shields.io/badge/.R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)  
   🎨 I love discussing photography, fine art, music, and mythology  
 
 ---
