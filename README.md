@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Yining
 
   💻 Currently a PhD student at [University College London (UCL)](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/fire-structural-engineering-fse)  
-  🎓 MSc at [University of Glasgow](https://www.gla.ac.uk/schools/engineering/) and visitor at [Kyoto University](https://www.kyoto-u.ac.jp/en)  
+  🎓 MSc at [University of Glasgow](https://www.gla.ac.uk/schools/engineering/) and visitor at [Kyoto University]([https://www.kyoto-u.ac.jp/en](https://www.t.kyoto-u.ac.jp/en))  
   🔬 My academic interests span engineering, architecture and their intersections with society and culture    
   🛠️ I mainly work with  [![Python](https://img.shields.io/badge/.py-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/.tex-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
